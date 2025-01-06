@@ -4,7 +4,7 @@ A retro typewriter simulation built with Lua and LÖVE framework.
 
 ## App
 
-![App](./app.png)
+![App](./assets/images/app.png)
 
 ## Requirements
 
