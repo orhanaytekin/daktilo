@@ -1,0 +1,32 @@
+# LÖVE specific
+*.love
+
+# Lua specific
+*.lua~
+*.luac
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+/builds/
+/dist/
+
+# Dependencies
+/libs/*
+!/libs/.gitkeep
+
+# Debug files
+debug.log
