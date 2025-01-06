@@ -1,7 +1,7 @@
 package = "typewriter"
 version = "1.0-1"
 source = {
-   url = "git://github.com/yourusername/typewriter",
+   url = "git://github.com/orhanaytekin/daktilo",
    tag = "v1.0"
 }
 description = {
@@ -10,7 +10,7 @@ description = {
       A beautiful and modern typewriter simulation built with LÖVR,
       featuring smooth animations, realistic sounds, and a modern architecture.
    ]],
-   homepage = "http://github.com/yourusername/typewriter",
+   homepage = "http://github.com/orhanaytekin/daktilo",
    license = "MIT"
 }
 dependencies = {
