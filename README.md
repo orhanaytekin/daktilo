@@ -2,6 +2,10 @@
 
 A retro typewriter simulation built with Lua and LÖVE framework.
 
+## App
+
+![App](./app.png)
+
 ## Requirements
 
 - LÖVE (11.4 or later) - Download from https://love2d.org/
